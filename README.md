@@ -2,6 +2,7 @@ Nombre del proyecto: SautaYork
 
 Nombre de los integrantes y su rol:
 Obed Alcantar Pacheco: Diseñador UI/UX
+Jordi Uriel Meza Guerra: Realizar pruebas de los módulo 
 
 Nombre de la asignatura y semestre:
 Administración de Proyectos de TI 9no cuatrimestre
