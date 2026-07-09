@@ -1,0 +1,12 @@
+{
+  "id": "VAC-001",
+  "titulo": "Desarrollador Web Junior",
+  "empresa": "Tech Solutions",
+  "modalidad": "Remoto",
+  "estado": "Activa",
+  "requisitos": [
+    "Conocimientos básicos de PHP",
+    "Manejo de Git",
+    "Trabajo en equipo"
+  ]
+}
