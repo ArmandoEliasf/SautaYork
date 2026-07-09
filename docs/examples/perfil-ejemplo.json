@@ -1,0 +1,13 @@
+{
+  "id": "PER-001",
+  "nombre": "Ana García",
+  "profesion": "Ingeniera en Sistemas",
+  "experiencia": "2 años",
+  "habilidades": [
+    "PHP",
+    "MySQL",
+    "HTML",
+    "CSS"
+  ],
+  "disponibilidad": "Inmediata"
+}
